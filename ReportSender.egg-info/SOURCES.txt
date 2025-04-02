@@ -1,0 +1,10 @@
+README.md
+setup.py
+ReportSender.egg-info/PKG-INFO
+ReportSender.egg-info/SOURCES.txt
+ReportSender.egg-info/dependency_links.txt
+ReportSender.egg-info/entry_points.txt
+ReportSender.egg-info/requires.txt
+ReportSender.egg-info/top_level.txt
+report_sender/__init__.py
+report_sender/main.py

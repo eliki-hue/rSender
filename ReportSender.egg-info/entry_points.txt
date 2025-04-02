@@ -1,0 +1,2 @@
+[gui_scripts]
+reportsender = report_sender.main:main

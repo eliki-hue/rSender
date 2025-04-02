@@ -1,0 +1,28 @@
+2025-04-02 16:18:56 - INFO - === Starting Report Sender ===
+2025-04-02 16:20:11 - INFO - Loaded data for 0 students from C:/Users/Administrator/Documents/parEmail.csv
+2025-04-02 16:20:43 - INFO - === Starting Report Sender ===
+2025-04-02 16:22:21 - INFO - Loaded data for 0 students from C:/Users/Administrator/Documents/parEmail.csv
+2025-04-02 16:22:30 - ERROR - SMTP Error: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-43eb60d34dasm21030825e9.23 - gsmtp')
+2025-04-02 16:22:30 - ERROR - Application error: SMTP Error: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-43eb60d34dasm21030825e9.23 - gsmtp')
+2025-04-02 16:35:48 - INFO - === Starting Report Sender ===
+2025-04-02 16:36:20 - INFO - Loaded data for 0 students from C:/Users/Administrator/Documents/parEmail.csv
+2025-04-02 16:36:27 - ERROR - SMTP Error: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-39c0b7a41a9sm17442593f8f.90 - gsmtp')
+2025-04-02 16:36:27 - ERROR - Application error: SMTP Error: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-39c0b7a41a9sm17442593f8f.90 - gsmtp')
+2025-04-02 16:36:37 - INFO - === Starting Report Sender ===
+2025-04-02 16:37:10 - INFO - Loaded data for 0 students from C:/Users/Administrator/Documents/parEmail.csv
+2025-04-02 16:37:14 - INFO - Report sending completed:
+
+Successful: 0
+Failed: 0
+Total: 0
+
+2025-04-02 16:39:54 - INFO - === Starting Report Sender ===
+2025-04-02 16:40:25 - INFO - Loaded data for 0 students from C:/Users/Administrator/Documents/parEmail.csv
+2025-04-02 16:47:43 - INFO - === Starting Report Sender ===
+2025-04-02 16:48:15 - INFO - Loaded data for 0 students from C:/Users/Administrator/Documents/parEmail.csv
+2025-04-02 16:48:38 - INFO - Report sending completed:
+
+Successful: 0
+Failed: 0
+Total: 0
+
