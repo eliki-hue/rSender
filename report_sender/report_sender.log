@@ -1,0 +1,7 @@
+2025-04-04 15:03:10,076 - INFO - Loaded 2 students from C:/Users/Administrator/Documents/parEmail.csv
+2025-04-04 15:09:18,358 - INFO - Loaded 2 students from C:/Users/Administrator/Documents/parEmail.csv
+2025-04-04 15:11:39,681 - INFO - Loaded 3 students from C:/Users/Administrator/Documents/parEmail.csv
+2025-04-04 15:12:24,994 - ERROR - SMTP Error: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43ec1663060sm48377815e9.14 - gsmtp')
+2025-04-04 15:13:05,234 - INFO - Loaded 3 students from C:/Users/Administrator/Documents/parEmail.csv
+2025-04-04 15:13:34,915 - INFO - Sent to eliki13720@gmail.com
+2025-04-04 15:13:36,366 - INFO - Sent to eliki13720@gmail.com
